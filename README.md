@@ -10,7 +10,6 @@ This microwave oven project supports multiple operational modes:
 
 - **Power ON Message Screen**: Displays a welcome message when powered on.
 - **Micro Mode**: Standard microwave heating mode.
-- **Macro Mode**: High-power microwave cooking mode.
 - **Grill Mode**: Grill cooking feature.
 - **Convection Mode**: Baking with a fan-assisted heat system.
 - **Start Screen**: Indicates that the cooking process is active.
